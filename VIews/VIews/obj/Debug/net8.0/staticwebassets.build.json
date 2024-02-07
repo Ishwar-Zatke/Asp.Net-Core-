@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "0lNBYDSE2iWM3VCmioGHHUrb0sBSntZJKgc9pAEC6eY=",
+  "Source": "VIews",
+  "BasePath": "_content/VIews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "VIews\\wwwroot",
+      "Source": "VIews",
+      "ContentRoot": "D:\\dotnet\\VIews\\VIews\\wwwroot\\",
+      "BasePath": "_content/VIews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
