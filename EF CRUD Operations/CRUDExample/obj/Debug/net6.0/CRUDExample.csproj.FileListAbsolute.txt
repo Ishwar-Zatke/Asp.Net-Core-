@@ -1,0 +1,145 @@
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\appsettings.Development.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\appsettings.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\countries.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\persons.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.staticwebassets.runtime.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.exe
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.deps.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.runtimeconfig.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Humanizer.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Entities.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\ServiceContracts.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Services.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Entities.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\ServiceContracts.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Services.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.AssemblyReference.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfoInputs.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfo.cs
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CoreCompileInputs.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cs
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.sourcelink.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUDExample.props
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUDExample.props
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUDExample.props
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\scopedcss\bundle\CRUDExample.styles.css
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CopyComplete
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\refint\CRUDExample.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.genruntimeconfig.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDExample\obj\Debug\net6.0\ref\CRUDExample.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\appsettings.Development.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\appsettings.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\countries.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\persons.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.staticwebassets.runtime.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.exe
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.deps.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.runtimeconfig.json
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\CRUDExample.pdb
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Humanizer.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Entities.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\ServiceContracts.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Services.dll
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Entities.pdb
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\ServiceContracts.pdb
+D:\EF CRUD Operations\CRUDExample\bin\Debug\net6.0\Services.pdb
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.AssemblyReference.cache
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfoInputs.cache
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.AssemblyInfo.cs
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CoreCompileInputs.cache
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.MvcApplicationPartsAssemblyInfo.cache
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cache
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.RazorAssemblyInfo.cs
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets.build.json
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets.development.json
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.build.CRUDExample.props
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CRUDExample.props
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CRUDExample.props
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\staticwebassets.pack.json
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\scopedcss\bundle\CRUDExample.styles.css
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.csproj.CopyComplete
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.dll
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\refint\CRUDExample.dll
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.pdb
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\CRUDExample.genruntimeconfig.cache
+D:\EF CRUD Operations\CRUDExample\obj\Debug\net6.0\ref\CRUDExample.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "g88ogNsTrKI6vjSR2Gpk1at0gBKyz/PojwGUeWVOIOo=",
+  "Source": "DependencyInjc",
+  "BasePath": "_content/DependencyInjc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DependencyInjc\\wwwroot",
+      "Source": "DependencyInjc",
+      "ContentRoot": "D:\\dotnet\\DependencyInjc\\DependencyInjc\\wwwroot\\",
+      "BasePath": "_content/DependencyInjc",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\dotnet\\DependencyInjc\\DependencyInjc\\wwwroot\\StyleSheet.css",
+      "SourceId": "DependencyInjc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\DependencyInjc\\DependencyInjc\\wwwroot\\",
+      "BasePath": "_content/DependencyInjc",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "peQ2jdSf5GZAKmPIGBPRYBbKQJrZz4aVF/CeuI+pvJI=",
+  "Source": "LayoutViews",
+  "BasePath": "_content/LayoutViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LayoutViews\\wwwroot",
+      "Source": "LayoutViews",
+      "ContentRoot": "D:\\dotnet\\LayoutViews\\LayoutViews\\wwwroot\\",
+      "BasePath": "_content/LayoutViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\dotnet\\LayoutViews\\LayoutViews\\wwwroot\\StyleSheet.css",
+      "SourceId": "LayoutViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnet\\LayoutViews\\LayoutViews\\wwwroot\\",
+      "BasePath": "_content/LayoutViews",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

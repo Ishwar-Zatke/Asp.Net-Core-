@@ -1,0 +1,8 @@
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.AssemblyInfoInputs.cache
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.AssemblyInfo.cs
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.csproj.CoreCompileInputs.cache
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.RazorAssemblyInfo.cache
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.RazorAssemblyInfo.cs
+D:\dotnet\WeathersApp\WeathersApp\obj\Debug\net8.0\WeathersApp.sourcelink.json

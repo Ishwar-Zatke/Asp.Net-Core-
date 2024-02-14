@@ -1,0 +1,16 @@
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.AssemblyInfoInputs.cache
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.AssemblyInfo.cs
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.csproj.CoreCompileInputs.cache
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.RazorAssemblyInfo.cache
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.RazorAssemblyInfo.cs
+D:\dotnet\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentEg.sourcelink.json
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.AssemblyInfoInputs.cache
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.AssemblyInfo.cs
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.csproj.CoreCompileInputs.cache
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.RazorAssemblyInfo.cache
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.RazorAssemblyInfo.cs
+D:\dotnet\ViewComponent\ViewComponentEg\obj\Debug\net8.0\ViewComponentEg.sourcelink.json

@@ -1,0 +1,12 @@
+D:\dotnet\DependencyInjc\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+D:\dotnet\DependencyInjc\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+D:\dotnet\DependencyInjc\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.sourcelink.json
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+D:\dotnet\DependencyInjc\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll

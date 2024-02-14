@@ -1,0 +1,31 @@
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\Entities.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.sourcelink.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
+D:\EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+D:\EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+D:\EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+D:\EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\Entities.dll
+D:\EF CRUD Operations\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CopyComplete
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+D:\EF CRUD Operations\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll

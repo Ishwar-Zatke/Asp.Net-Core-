@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EF CRUD Operations\\CRUDExample\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\EF CRUD Operations\\CRUDExample\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EF CRUD Operations\\CRUDExample\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EF CRUD Operations\\CRUDExample\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EF CRUD Operations\\CRUDExample\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CRUDExample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CRUDExample.props",
+      "PackagePath": "build\\CRUDExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDExample.props",
+      "PackagePath": "buildMultiTargeting\\CRUDExample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CRUDExample.props",
+      "PackagePath": "buildTransitive\\CRUDExample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

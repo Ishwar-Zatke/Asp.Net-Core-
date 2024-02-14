@@ -1,0 +1,26 @@
+﻿@{
+    var customData = ViewData["CustomData"] as string;
+}
+<div>
+    <h3>Grid</h3>
+    <p>This is the View  invoked from the Grid View Component</p>
+    <p>Custom Data: @customData</p>
+    <table>
+        <thead>
+            <tr>
+                <th>Sr No </th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>One</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Two</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,16 @@
+D:\dotnet\DependencyInjc\Services\bin\Debug\net6.0\Services.deps.json
+D:\dotnet\DependencyInjc\Services\bin\Debug\net6.0\Services.dll
+D:\dotnet\DependencyInjc\Services\bin\Debug\net6.0\Services.pdb
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.sourcelink.json
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.dll
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\refint\Services.dll
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.pdb
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\ref\Services.dll
+D:\dotnet\DependencyInjc\Services\bin\Debug\net6.0\ServiceContracts.dll
+D:\dotnet\DependencyInjc\Services\bin\Debug\net6.0\ServiceContracts.pdb
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\dotnet\DependencyInjc\Services\obj\Debug\net6.0\Services.csproj.CopyComplete

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ViewComponentEg",
+    "\\ViewComponentEg\\Controllers",
+    "\\ViewComponentEg\\ViewComponents",
+    "\\ViewComponentEg\\Views",
+    "\\ViewComponentEg\\Views\\Shared",
+    "\\ViewComponentEg\\Views\\Shared\\Components",
+    "\\ViewComponentEg\\Views\\Shared\\Components\\Grid"
+  ],
+  "SelectedNode": "\\ViewComponentEg\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

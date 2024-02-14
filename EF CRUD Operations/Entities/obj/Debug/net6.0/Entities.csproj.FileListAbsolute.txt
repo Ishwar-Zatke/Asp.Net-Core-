@@ -1,0 +1,29 @@
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.sourcelink.json
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.pdb
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+D:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.dll
+D:\EF CRUD Operations\Entities\bin\Debug\net6.0\Entities.pdb
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.dll
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.pdb
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+D:\EF CRUD Operations\Entities\obj\Debug\net6.0\ref\Entities.dll

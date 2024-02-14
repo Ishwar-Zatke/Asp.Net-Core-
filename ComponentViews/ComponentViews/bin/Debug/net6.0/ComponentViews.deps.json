@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ComponentViews/1.0.0": {
+        "runtime": {
+          "ComponentViews.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComponentViews/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

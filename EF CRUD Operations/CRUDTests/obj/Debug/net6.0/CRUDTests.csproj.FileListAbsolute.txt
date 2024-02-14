@@ -1,0 +1,13 @@
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.AssemblyReference.cache
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfoInputs.cache
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfo.cs
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.CoreCompileInputs.cache
+d:\AspNetCore-Harsha\17. EntityFrameworkCore\05. EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.sourcelink.json
+D:\EF CRUD Operations\CRUDTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.AssemblyReference.cache
+D:\EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfoInputs.cache
+D:\EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.AssemblyInfo.cs
+D:\EF CRUD Operations\CRUDTests\obj\Debug\net6.0\CRUDTests.csproj.CoreCompileInputs.cache
